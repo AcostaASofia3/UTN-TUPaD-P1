@@ -1,4 +1,4 @@
-
+#Trabajo Practico N3 - Estructuras Condicionales 
 #Ejercicio 1 "Mayor de Edad"
 #Paso 1: pedimos la edad al usuario
 edad = int(input("Ingrese la edad: "))
