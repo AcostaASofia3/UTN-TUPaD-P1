@@ -19,7 +19,7 @@ import math
 radio_c = float(input("ingrese el radio de un circulo: "))
 area_c = math.pi * (radio_c) **2
 perimetro_c = 2* math.pi * radio_c
-print (f"el area del circulo es: {area_c} y el perimetro es: {perimetro_c} ")  ) 
+print (f"el area del circulo es: {area_c} y el perimetro es: {perimetro_c} ")
 
 #Ejercicio-5
 segundos = float(input("ingrese la cantidad de segundos: "))
